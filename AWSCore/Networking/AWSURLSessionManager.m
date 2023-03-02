@@ -104,9 +104,18 @@ typedef NS_ENUM(NSInteger, AWSURLSessionTaskType) {
 - (instancetype)initWithConfiguration:(AWSNetworkingConfiguration *)configuration {
     if (self = [super init]) {
         _configuration = configuration;
-
-
-        NSURLSessionConfiguration *sessionConfiguration = [NSURLSessionConfiguration defaultSessionConfiguration];
+        NSURLSessionConfiguration *sessionConfiguration;
+        if (configuration.allowsBackgroundSession) {
+            sessionConfiguration =
+            [NSURLSessionConfiguration backgroundSessionConfigurationWithIdentifier: configuration.sessionIdentifier];
+            sessionConfiguration.HTTPMaximumConnectionsPerHost = configuration.maximumConnectionsPerHost;
+            sessionConfiguration.sessionSendsLaunchEvents = YES;
+            if (@available(iOS 11.0, *)) {
+                sessionConfiguration.waitsForConnectivity = configuration.waitsForConnectivity;
+            }
+        } else {
+            sessionConfiguration = [NSURLSessionConfiguration defaultSessionConfiguration];
+        }
         sessionConfiguration.URLCache = nil;
         if (configuration.timeoutIntervalForRequest > 0) {
             sessionConfiguration.timeoutIntervalForRequest = configuration.timeoutIntervalForRequest;

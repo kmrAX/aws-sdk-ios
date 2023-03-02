@@ -165,6 +165,9 @@ typedef NS_ENUM(NSInteger, AWSHTTPMethod) {
 @property (nonatomic, strong) id<AWSURLRequestRetryHandler> retryHandler;
 
 @property (nonatomic, assign) BOOL allowsBackgroundSession;
+@property (nonatomic, assign) BOOL waitsForConnectivity;
+@property (nonatomic, strong) NSString *sessionIdentifier;
+@property NSInteger maximumConnectionsPerHost;
 
 /**
  The maximum number of retries for failed requests. The value needs to be between 0 and 10 inclusive. If set to higher than 10, it becomes 10.
