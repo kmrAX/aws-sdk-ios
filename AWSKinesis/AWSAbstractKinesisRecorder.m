@@ -41,6 +41,8 @@ NSString *const AWSKinesisAbstractClientRecorderDatabasePathPrefix = @"com/amazo
                        notificationSender:(id)notificationSender
                                  fileSize:(NSUInteger)fileSize;
 
+- (void)completionHandlerForBackgroundURLSession:(void (^)(void))completionHandler;
+
 @end
 
 @interface AWSAbstractKinesisRecorder()
@@ -387,6 +389,10 @@ NSString *const AWSKinesisAbstractClientRecorderDatabasePathPrefix = @"com/amazo
         [md5String appendFormat:@"%02x", digestArray[i]];
     }
     return md5String;
+}
+
+- (void)completionHandlerForBackgroundURLSession:(void (^)(void))completionHandler {
+    [self.recorderHelper completionHandlerForBackgroundURLSession:completionHandler];
 }
 
 @end

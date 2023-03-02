@@ -86,4 +86,11 @@
  */
 - (AWSTask *)removeAllRecords;
 
+/**
+ Completion handler for background URLSession
+ 
+ @param completionHandler a completion handler
+ */
+- (void)completionHandlerForBackgroundURLSession:(void (^)(void))completionHandler;
+
 @end

@@ -719,6 +719,13 @@ FOUNDATION_EXPORT NSString *const AWSKinesisSDKVersion;
  */
 - (void)updateShardCount:(AWSKinesisUpdateShardCountInput *)request completionHandler:(void (^ _Nullable)(AWSKinesisUpdateShardCountOutput * _Nullable response, NSError * _Nullable error))completionHandler;
 
+/**
+ Completion handler for background URLSession
+ 
+ @param completionHandler a completion handler
+ */
+- (void)completionHandlerForBackgroundURLSession:(void (^)(void))completionHandler;
+
 @end
 
 NS_ASSUME_NONNULL_END

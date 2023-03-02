@@ -801,6 +801,10 @@ static AWSSynchronizedMutableDictionary *_serviceClients = nil;
     }];
 }
 
+- (void)completionHandlerForBackgroundURLSession:(void (^)(void))completionHandler {
+    [self.networking completionHandlerForBackgroundURLSession:completionHandler];
+}
+
 #pragma mark -
 
 @end

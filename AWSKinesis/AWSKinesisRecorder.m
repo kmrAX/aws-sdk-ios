@@ -226,4 +226,7 @@ static AWSSynchronizedMutableDictionary *_serviceClients = nil;
     }
 }
 
+- (void)completionHandlerForBackgroundURLSession:(void (^)(void))completionHandler {
+    [self.kinesis completionHandlerForBackgroundURLSession:completionHandler];
+}
 @end
