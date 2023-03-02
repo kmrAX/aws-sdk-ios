@@ -170,6 +170,11 @@ NSString *const AWSNetworkingErrorDomain = @"com.amazonaws.AWSNetworkingErrorDom
     configuration.maxRetryCount = self.maxRetryCount;
     configuration.timeoutIntervalForRequest = self.timeoutIntervalForRequest;
     configuration.timeoutIntervalForResource = self.timeoutIntervalForResource;
+    
+    configuration.allowsBackgroundSession = self.allowsBackgroundSession;
+    configuration.waitsForConnectivity = self.waitsForConnectivity;
+    configuration.sessionIdentifier = [self.sessionIdentifier copy];
+    configuration.maximumConnectionsPerHost = self.maximumConnectionsPerHost;
 
     return configuration;
 }
