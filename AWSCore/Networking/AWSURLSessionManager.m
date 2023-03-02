@@ -106,8 +106,7 @@ typedef NS_ENUM(NSInteger, AWSURLSessionTaskType) {
         _configuration = configuration;
         NSURLSessionConfiguration *sessionConfiguration;
         if (configuration.allowsBackgroundSession) {
-            sessionConfiguration =
-            [NSURLSessionConfiguration backgroundSessionConfigurationWithIdentifier: configuration.sessionIdentifier];
+            sessionConfiguration = [NSURLSessionConfiguration backgroundSessionConfigurationWithIdentifier: configuration.sessionIdentifier];
             sessionConfiguration.HTTPMaximumConnectionsPerHost = configuration.maximumConnectionsPerHost;
             sessionConfiguration.sessionSendsLaunchEvents = YES;
             if (@available(iOS 11.0, *)) {
