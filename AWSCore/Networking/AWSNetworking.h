@@ -68,6 +68,13 @@ typedef NS_ENUM(NSInteger, AWSHTTPMethod) {
 
 - (AWSTask *)sendRequest:(AWSNetworkingRequest *)request;
 
+/**
+ Completion handler for background URLSession
+ 
+ @param completionHandler a completion handler
+ */
+- (void)completionHandlerForBackgroundURLSession:(void (^)(void))completionHandler;
+
 @end
 
 #pragma mark - Protocols
@@ -156,6 +163,8 @@ typedef NS_ENUM(NSInteger, AWSHTTPMethod) {
 @property (nonatomic, strong) id<AWSHTTPURLResponseSerializer> responseSerializer;
 @property (nonatomic, strong) NSArray<id<AWSNetworkingHTTPResponseInterceptor>> *responseInterceptors;
 @property (nonatomic, strong) id<AWSURLRequestRetryHandler> retryHandler;
+
+@property (nonatomic, assign) BOOL allowsBackgroundSession;
 
 /**
  The maximum number of retries for failed requests. The value needs to be between 0 and 10 inclusive. If set to higher than 10, it becomes 10.

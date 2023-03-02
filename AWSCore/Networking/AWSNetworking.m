@@ -101,6 +101,10 @@ NSString *const AWSNetworkingErrorDomain = @"com.amazonaws.AWSNetworkingErrorDom
     [_sessionManager invalidate];
 }
 
+- (void)completionHandlerForBackgroundURLSession:(void (^)(void))completionHandler {
+    self.sessionManager.backgroundSessionCompletionHandler = completionHandler;
+}
+
 @end
 
 #pragma mark - AWSNetworkingConfiguration

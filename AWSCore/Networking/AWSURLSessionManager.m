@@ -143,6 +143,17 @@ typedef NS_ENUM(NSInteger, AWSURLSessionTaskType) {
     return delegate.taskCompletionSource.task;
 }
 
+- (void)didFinishEventsForBackgroundURLSession:(NSURLSession *)session {
+    if (_backgroundSessionCompletionHandler != nil) {
+        void(^completionHandler)(void) = _backgroundSessionCompletionHandler;
+        _backgroundSessionCompletionHandler = nil;
+        
+        [[NSOperationQueue mainQueue] addOperationWithBlock:^{
+            completionHandler();
+        }];
+    }
+}
+
 - (void)taskWithDelegate:(AWSURLSessionManagerDelegate *)delegate {
     if (!self.session || !self.isSessionValid) {
         delegate.taskCompletionSource.error = [NSError errorWithDomain:AWSNetworkingErrorDomain
@@ -598,6 +609,10 @@ typedef NS_ENUM(NSInteger, AWSURLSessionTaskType) {
         downloadProgress(bytesWritten,delegate.payloadTotalBytesWritten + byteRangeStartPosition,totalBytesExpectedToWrite);
     }
     
+}
+
+- (void)URLSessionDidFinishEventsForBackgroundURLSession:(NSURLSession *)session {
+    [self didFinishEventsForBackgroundURLSession:session];
 }
 
 #pragma mark - Helper methods

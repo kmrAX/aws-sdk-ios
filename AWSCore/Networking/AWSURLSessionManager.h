@@ -19,9 +19,12 @@
 @interface AWSURLSessionManager : NSObject <NSURLSessionDelegate, NSURLSessionDataDelegate>
 
 @property (nonatomic, strong) AWSNetworkingConfiguration *configuration;
+@property (nonatomic, copy) void(^backgroundSessionCompletionHandler) (void);
 
 - (instancetype)initWithConfiguration:(AWSNetworkingConfiguration *)configuration;
 
 - (AWSTask *)dataTaskWithRequest:(AWSNetworkingRequest *)request;
+
+- (void)didFinishEventsForBackgroundURLSession:(NSURLSession *)session;
 
 @end
