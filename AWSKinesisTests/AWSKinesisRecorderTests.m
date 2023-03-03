@@ -188,6 +188,40 @@ static NSString *testStreamName = nil;
     }];
 }
 
+- (void)testPendingRecords {
+    XCTestExpectation *expectation = [self expectationWithDescription:@"Test finished running."];
+    
+    NSMutableString *mutableString = [NSMutableString new];
+    for (int i = 0; i < 5000; i++) {
+        [mutableString appendString:@"0123456789"];
+    }
+    NSData *data = [mutableString dataUsingEncoding:NSUTF8StringEncoding];
+    XCTAssertLessThan([data length], 50 * 1024 - 256);
+    AWSKinesisRecorder *kinesisRecorder = [AWSKinesisRecorder defaultKinesisRecorder];
+    
+    AWSTask *task = [AWSTask taskWithResult:nil];
+    for (int i = 0; i < 10; i++) {
+        task = [task continueWithBlock:^id(AWSTask *task) {
+            return [kinesisRecorder saveRecord:data
+                                    streamName:@"testPendingRecords"];
+        }];
+    }
+    
+    [[task continueWithBlock:^id(AWSTask *task) {
+        return [kinesisRecorder pendingRecords];
+    }] continueWithBlock:^id(AWSTask *task) {
+        XCTAssertEqual([task.result count], 10);
+        
+        [expectation fulfill];
+        
+        return nil;
+    }];
+    
+    [self waitForExpectationsWithTimeout:10 handler:^(NSError * _Nullable error) {
+        XCTAssertNil(error);
+    }];
+}
+
 - (void)testDiskByteLimit {
     XCTestExpectation *expectation = [self expectationWithDescription:@"Test finished running."];
 

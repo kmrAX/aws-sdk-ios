@@ -226,6 +226,56 @@ NSString *const AWSKinesisAbstractClientRecorderDatabasePathPrefix = @"com/amazo
     }];
 }
 
+- (AWSTask *)pendingRecords {
+    AWSFMDatabaseQueue *databaseQueue = self.databaseQueue;
+    __block NSMutableArray *temporaryRecords = [NSMutableArray new];
+    return [[AWSTask taskWithResult:temporaryRecords] continueWithExecutor:[AWSExecutor executorWithDispatchQueue:[AWSKinesisRecorder sharedQueue]] withSuccessBlock:^id _Nullable(AWSTask * _Nonnull task) {
+        __block NSError *error = nil;
+        __block BOOL stop = NO;
+
+        do {
+            [databaseQueue inTransaction:^(AWSFMDatabase *db, BOOL *rollback) {
+                NSMutableArray *rowIds = nil;
+
+                AWSFMResultSet *rs = [db executeQuery:
+                                      @"SELECT rowid, partition_key, data, retry_count, stream_name "
+                                      @"FROM record "
+                                      @"WHERE stream_name = (SELECT stream_name FROM record ORDER BY timestamp ASC LIMIT 1)"];
+                if (!rs) {
+                    AWSDDLogError(@"SQLite error. Rolling back... [%@]", db.lastError);
+                    error = db.lastError;
+                    *rollback = YES;
+                    return;
+                }
+
+                NSUInteger batchDataSize = 0;
+                rowIds = [NSMutableArray new];
+                while ([rs next]) {
+                    [temporaryRecords addObject:@{
+                                                  @"partition_key": [rs stringForColumn:@"partition_key"],
+                                                  @"data": [rs dataForColumn:@"data"],
+                                                  @"stream_name": [rs stringForColumn:@"stream_name"],
+                                                  }];
+
+                    [rowIds addObject:[rs stringForColumn:@"rowid"]];
+                    batchDataSize += [[rs dataForColumn:@"data"] length];
+
+                    if (batchDataSize > self.batchRecordsByteLimit) { // if the batch size exceeds `batchRecordsByteLimit`, stop there.
+                        break;
+                    }
+                }
+                rs = nil;
+            }];
+        } while (!stop && !error);
+
+        if (error) {
+            return [AWSTask taskWithError:error];
+        }
+
+        return nil;
+    }];
+}
+
 - (AWSTask *)submitAllRecords {
     AWSFMDatabaseQueue *databaseQueue = self.databaseQueue;
 

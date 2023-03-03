@@ -72,6 +72,8 @@
              streamName:(NSString *)streamName
            partitionKey:(NSString *)partitionKey;
 
+- (AWSTask *)pendingRecords;
+
 /**
  Submits all locally saved requests to Amazon Kinesis. Requests that are successfully sent will be deleted from the device. Requests that fail due to the device being offline will stop the submission process and be kept. Requests that fail due to other reasons (such as the request being invalid) will be deleted.
 

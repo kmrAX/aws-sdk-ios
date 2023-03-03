@@ -10508,20 +10508,24 @@
 					};
 					1778556F20F9A7CE00D083BB = {
 						CreatedOnToolsVersion = 9.2;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1100;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 181154751E201403008F184C;
 					};
 					1778558B20F9A8C500D083BB = {
 						CreatedOnToolsVersion = 9.2;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					1778559A20F9A8DA00D083BB = {
 						CreatedOnToolsVersion = 9.2;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					177855D820F9B3D000D083BB = {
 						CreatedOnToolsVersion = 9.2;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1100;
 						ProvisioningStyle = Automatic;
 					};
@@ -10531,11 +10535,13 @@
 					};
 					178A804C22B097B900B167D6 = {
 						CreatedOnToolsVersion = 10.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 					};
 					17ADAE94209BD11E00FF7598 = {
 						CreatedOnToolsVersion = 9.2;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1100;
 						ProvisioningStyle = Automatic;
 					};
@@ -10545,10 +10551,12 @@
 					};
 					17E6B456209BB7C90079B286 = {
 						CreatedOnToolsVersion = 9.2;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					181154751E201403008F184C = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					181270C01E8EB53900174785 = {
@@ -10557,6 +10565,7 @@
 					};
 					181270C81E8EB53A00174785 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					185111CA1D78F03B0009F5C3 = {
@@ -10564,34 +10573,41 @@
 					};
 					185111D31D78F03B0009F5C3 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					18798F7D1DEF9EA900BC419B = {
 						CreatedOnToolsVersion = 7.3.1;
 					};
 					18798F861DEF9EA900BC419B = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						TestTargetID = 181154751E201403008F184C;
 					};
 					18798F981DEF9EF800BC419B = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					188321011DFF11B8003FBE9F = {
 						CreatedOnToolsVersion = 7.3.1;
 					};
 					1883210A1DFF11B9003FBE9F = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					18E2F5601DED307400BD4608 = {
 						CreatedOnToolsVersion = 7.3.1;
 					};
 					18E2F5691DED307500BD4608 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					18E2F58D1DED31D300BD4608 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					18F572501D8A08FB0068546F = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					2109E2B8254745210057043C = {
 						CreatedOnToolsVersion = 12.1;
@@ -10600,12 +10616,14 @@
 					};
 					2109E2C0254745210057043C = {
 						CreatedOnToolsVersion = 12.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1300;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 181154751E201403008F184C;
 					};
 					2109E54A2547557A0057043C = {
 						CreatedOnToolsVersion = 12.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1210;
 						ProvisioningStyle = Automatic;
 					};
@@ -10615,14 +10633,14 @@
 					};
 					211166FD2399C24900902FC1 = {
 						CreatedOnToolsVersion = 11.2.1;
-						DevelopmentTeam = W3DRXD72QU;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1120;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 181154751E201403008F184C;
 					};
 					211167272399C83600902FC1 = {
 						CreatedOnToolsVersion = 11.2.1;
-						DevelopmentTeam = W3DRXD72QU;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					211FFC7C26C2FBAC00F0DB75 = {
@@ -10631,6 +10649,7 @@
 					};
 					211FFC8426C2FBAD00F0DB75 = {
 						CreatedOnToolsVersion = 12.5.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 181154751E201403008F184C;
 					};
@@ -10640,15 +10659,18 @@
 					};
 					211FFCA626C2FF4700F0DB75 = {
 						CreatedOnToolsVersion = 12.5.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 181154751E201403008F184C;
 					};
 					211FFCDD26C3069900F0DB75 = {
 						CreatedOnToolsVersion = 12.5.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					211FFCEC26C306E000F0DB75 = {
 						CreatedOnToolsVersion = 12.5.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					21863B1E2602660A0070CD1B = {
@@ -10660,6 +10682,7 @@
 					};
 					9A7ACC4D20B0FF1000DDBEC1 = {
 						CreatedOnToolsVersion = 9.2;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					9A7ACC6A20B110DE00DDBEC1 = {
@@ -10668,20 +10691,24 @@
 					};
 					9A7ACCA320B115BC00DDBEC1 = {
 						CreatedOnToolsVersion = 9.2;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					9A7ACCD220B11B5200DDBEC1 = {
 						CreatedOnToolsVersion = 9.2;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1100;
 						ProvisioningStyle = Automatic;
 					};
 					9A7ACCF420B11CDD00DDBEC1 = {
 						CreatedOnToolsVersion = 9.2;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1100;
 						ProvisioningStyle = Automatic;
 					};
 					9AC4C4DE20F4803900B1ECF4 = {
 						CreatedOnToolsVersion = 9.2;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1100;
 						ProvisioningStyle = Automatic;
 					};
@@ -10691,6 +10718,7 @@
 					};
 					B4A4E02622B4233B00379396 = {
 						CreatedOnToolsVersion = 10.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					B4D61CAE23285D16007E7A12 = {
@@ -10699,15 +10727,18 @@
 					};
 					B4D61CE223285F98007E7A12 = {
 						CreatedOnToolsVersion = 10.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					B4D61CF723286651007E7A12 = {
 						CreatedOnToolsVersion = 10.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 181154751E201403008F184C;
 					};
 					B5A0262422F01B33001C75CE = {
 						CreatedOnToolsVersion = 10.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					B5C01AF322EB7EFD000F2877 = {
@@ -10716,6 +10747,7 @@
 					};
 					B5C01AFB22EB7F00000F2877 = {
 						CreatedOnToolsVersion = 10.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1100;
 						ProvisioningStyle = Automatic;
 					};
@@ -10725,82 +10757,104 @@
 					};
 					B5DD450B22C9B17C003871AE = {
 						CreatedOnToolsVersion = 10.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1100;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 181154751E201403008F184C;
 					};
 					B5DD454D22CA6474003871AE = {
 						CreatedOnToolsVersion = 10.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					CE0D416C1C6A66E5006B91B5 = {
 						CreatedOnToolsVersion = 7.2.1;
+						ProvisioningStyle = Manual;
 					};
 					CE0D41751C6A66E5006B91B5 = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						TestTargetID = 181154751E201403008F184C;
 					};
 					CE5603D11C6BC74500B4E00B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1030;
 					};
 					CE5603E81C6BC86C00B4E00B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE5603F91C6BC8BC00B4E00B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE5604081C6BC8CE00B4E00B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE5604261C6BC8EE00B4E00B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE5604351C6BC8FE00B4E00B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE5604441C6BC90C00B4E00B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE5604531C6BC91D00B4E00B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE5604621C6BC92E00B4E00B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE5604711C6BC93C00B4E00B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE5604801C6BC94D00B4E00B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE56049E1C6BC97600B4E00B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1250;
 					};
 					CE5604AD1C6BC98800B4E00B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE5604BC1C6BC99500B4E00B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE5604CB1C6BC9A200B4E00B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE5604DA1C6BC9B200B4E00B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE9DE5331C6A72960060793F = {
 						CreatedOnToolsVersion = 7.2.1;
 					};
 					CE9DE53C1C6A72960060793F = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE9DE56F1C6A763E0060793F = {
 						CreatedOnToolsVersion = 7.2.1;
 					};
 					CE9DE5781C6A763E0060793F = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1100;
 					};
 					CE9DE5AB1C6A77880060793F = {
@@ -10808,18 +10862,21 @@
 					};
 					CE9DE5B41C6A77890060793F = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE9DE5DB1C6A78200060793F = {
 						CreatedOnToolsVersion = 7.2.1;
 					};
 					CE9DE5E41C6A78200060793F = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE9DE60B1C6A78A60060793F = {
 						CreatedOnToolsVersion = 7.2.1;
 					};
 					CE9DE6141C6A78A70060793F = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1100;
 						TestTargetID = 181154751E201403008F184C;
 					};
@@ -10828,12 +10885,14 @@
 					};
 					CE9DE68F1C6A79470060793F = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE9DE6D81C6A79DF0060793F = {
 						CreatedOnToolsVersion = 7.2.1;
 					};
 					CE9DE6E11C6A79DF0060793F = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE9DE70E1C6A7A680060793F = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -10843,6 +10902,7 @@
 					};
 					CE9DE9C51C6A7C2E0060793F = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1100;
 						TestTargetID = 181154751E201403008F184C;
 					};
@@ -10851,30 +10911,35 @@
 					};
 					CE9DEA051C6A7E000060793F = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE9DEA2C1C6A7E710060793F = {
 						CreatedOnToolsVersion = 7.2.1;
 					};
 					CE9DEA351C6A7E710060793F = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE9DEA5C1C6A7EE30060793F = {
 						CreatedOnToolsVersion = 7.2.1;
 					};
 					CE9DEA651C6A7EE40060793F = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE9DEA8C1C6A7F460060793F = {
 						CreatedOnToolsVersion = 7.2.1;
 					};
 					CE9DEA951C6A7F460060793F = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CE9DEB1D1C6A81160060793F = {
 						CreatedOnToolsVersion = 7.2.1;
 					};
 					CE9DEB261C6A81160060793F = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1100;
 						TestTargetID = 181154751E201403008F184C;
 					};
@@ -10883,16 +10948,19 @@
 					};
 					CE9DEB681C6A9F3D0060793F = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					CEA316971C93A0EA002A9F58 = {
 						CreatedOnToolsVersion = 7.2.1;
 					};
 					CEA316A01C93A0EA002A9F58 = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						TestTargetID = 181154751E201403008F184C;
 					};
 					CEA316BF1C93A415002A9F58 = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						LastSwiftMigration = 1100;
 					};
 					CEEF67961CEF8E37000110B0 = {
@@ -10904,11 +10972,19 @@
 					};
 					E4E1DA291E5F4EBC0080F769 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					E4E1DA4E1E5F5BBD0080F769 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
+					};
+					EFDE85E71ED2050C008841EC = {
+						DevelopmentTeam = FZXCUUS8M8;
+					};
+					EFDE85F81ED20517008841EC = {
+						DevelopmentTeam = FZXCUUS8M8;
 					};
 					FA1C57E32539E80C00DBC24C = {
 						CreatedOnToolsVersion = 12.0.1;
@@ -10916,6 +10992,7 @@
 					};
 					FA53332A22D4D47D00BD88AF = {
 						CreatedOnToolsVersion = 10.2.1;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					FA896ECF251A97CB00EFD678 = {
@@ -10929,17 +11006,18 @@
 					};
 					FAFE10AE234D3CF200BD2DCA = {
 						CreatedOnToolsVersion = 11.0;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 181154751E201403008F184C;
 					};
 					FAFFD94C2334292000E2317C = {
 						CreatedOnToolsVersion = 10.3;
-						DevelopmentTeam = W3DRXD72QU;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 					FAFFD95B2334293B00E2317C = {
 						CreatedOnToolsVersion = 10.3;
-						DevelopmentTeam = W3DRXD72QU;
+						DevelopmentTeam = FZXCUUS8M8;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -14387,6 +14465,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSKinesisVideoArchivedMediaTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
@@ -14410,6 +14489,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSKinesisVideoArchivedMediaTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
@@ -14431,6 +14511,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSKinesisVideoUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
@@ -14454,6 +14535,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSKinesisVideoUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
@@ -14477,6 +14559,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSKinesisVideoArchivedMediaUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
@@ -14500,6 +14583,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSKinesisVideoArchivedMediaUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
@@ -14523,6 +14607,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSKinesisVideoTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
@@ -14545,6 +14630,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSKinesisVideoTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
@@ -14621,6 +14707,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSTranscribeStreamingTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -14647,6 +14734,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSTranscribeStreamingTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -14668,6 +14756,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSTranscribeTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -14695,6 +14784,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSTranscribeTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -14770,6 +14860,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSTranscribeUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -14793,6 +14884,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSTranscribeUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -14816,6 +14908,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSAllTestsHost/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -14834,6 +14927,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSAllTestsHost/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -14882,6 +14976,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSLogsUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -14898,6 +14993,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSLogsUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -14966,6 +15062,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSLexTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -14981,6 +15078,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSLexTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -15032,6 +15130,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSPinpointTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -15049,6 +15148,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSPinpointTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -15066,6 +15166,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSPinpointUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -15082,6 +15183,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSPinpointUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -15134,6 +15236,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSRekognitionUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -15150,6 +15253,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSRekognitionUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -15206,6 +15310,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSPollyTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -15222,6 +15327,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSPollyTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -15238,6 +15344,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSPollyUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -15254,6 +15361,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSPollyUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -15269,6 +15377,7 @@
 		18F5725A1D8A08FB0068546F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSLexUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -15284,6 +15393,7 @@
 		18F5725B1D8A08FB0068546F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSLexUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -15372,6 +15482,7 @@
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSLocationTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -15405,6 +15516,7 @@
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSLocationTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -15435,6 +15547,7 @@
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSLocationUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -15464,6 +15577,7 @@
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSLocationUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -15547,7 +15661,7 @@
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = W3DRXD72QU;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSKinesisVideoSignalingTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -15578,7 +15692,7 @@
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = W3DRXD72QU;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSKinesisVideoSignalingTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -15606,7 +15720,7 @@
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = W3DRXD72QU;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSKinesisVideoSignalingUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -15719,6 +15833,7 @@
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSChimeSDKIdentityTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -15748,6 +15863,7 @@
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSChimeSDKIdentityTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -15839,6 +15955,7 @@
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSChimeSDKMessagingTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -15868,6 +15985,7 @@
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSChimeSDKMessagingTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -15896,6 +16014,7 @@
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSChimeSDKMessagingUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -15924,6 +16043,7 @@
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSChimeSDKMessagingUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -15951,6 +16071,7 @@
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSChimeSDKIdentityUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -15979,6 +16100,7 @@
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSChimeSDKIdentityUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16117,6 +16239,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSTranslateUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16140,6 +16263,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSTranslateUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16211,6 +16335,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSComprehendUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16234,6 +16359,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSComprehendUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16257,6 +16383,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSComprehendTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16284,6 +16411,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSComprehendTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16309,6 +16437,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSTranslateTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16336,6 +16465,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSTranslateTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16361,6 +16491,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSRekognitionTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16385,6 +16516,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSRekognitionTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16461,6 +16593,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSSageMakerRuntimeUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16487,6 +16620,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSSageMakerRuntimeUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16565,6 +16699,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSConnectParticipantUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16591,6 +16726,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSConnectParticipantUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16616,6 +16752,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSConnectParticipantTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16647,6 +16784,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSConnectParticipantTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16675,6 +16813,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSTextractUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16701,6 +16840,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSTextractUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16779,6 +16919,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSTextractTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16802,6 +16943,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSTextractTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16880,6 +17022,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSConnectTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16907,6 +17050,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSConnectTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16931,6 +17075,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSConnectUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -16957,6 +17102,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSConnectUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -17100,8 +17246,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Manual;
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = "";
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -17111,6 +17259,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.amazonaws.sdk.ios.AWSCore;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
 			};
 			name = Debug;
@@ -17119,8 +17268,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Manual;
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = "";
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -17129,6 +17280,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.amazonaws.sdk.ios.AWSCore;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
 			};
 			name = Release;
@@ -17136,6 +17288,7 @@
 		CE0D41821C6A66E5006B91B5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSCoreTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(FRAMEWORK_SEARCH_PATHS)";
@@ -17153,6 +17306,7 @@
 		CE0D41831C6A66E5006B91B5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSCoreTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(FRAMEWORK_SEARCH_PATHS)";
@@ -17171,6 +17325,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSCoreUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(FRAMEWORK_SEARCH_PATHS)";
@@ -17191,6 +17346,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSCoreUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(FRAMEWORK_SEARCH_PATHS)";
@@ -17209,6 +17365,7 @@
 		CE5603F21C6BC86C00B4E00B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSAPIGatewayUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17224,6 +17381,7 @@
 		CE5603F31C6BC86C00B4E00B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSAPIGatewayUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17239,6 +17397,7 @@
 		CE5604031C6BC8BC00B4E00B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSAutoScalingUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17254,6 +17413,7 @@
 		CE5604041C6BC8BC00B4E00B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSAutoScalingUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17269,6 +17429,7 @@
 		CE5604121C6BC8CE00B4E00B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSCloudWatchUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17284,6 +17445,7 @@
 		CE5604131C6BC8CE00B4E00B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSCloudWatchUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17299,6 +17461,7 @@
 		CE5604301C6BC8EE00B4E00B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSDynamoDBUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17314,6 +17477,7 @@
 		CE5604311C6BC8EE00B4E00B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSDynamoDBUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17329,6 +17493,7 @@
 		CE56043F1C6BC8FF00B4E00B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSEC2UnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17344,6 +17509,7 @@
 		CE5604401C6BC8FF00B4E00B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSEC2UnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17359,6 +17525,7 @@
 		CE56044E1C6BC90C00B4E00B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSElasticLoadBalancingUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17374,6 +17541,7 @@
 		CE56044F1C6BC90C00B4E00B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSElasticLoadBalancingUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17389,6 +17557,7 @@
 		CE56045D1C6BC91D00B4E00B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSIoTUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17404,6 +17573,7 @@
 		CE56045E1C6BC91D00B4E00B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSIoTUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17419,6 +17589,7 @@
 		CE56046C1C6BC92E00B4E00B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSKinesisUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17434,6 +17605,7 @@
 		CE56046D1C6BC92E00B4E00B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSKinesisUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17449,6 +17621,7 @@
 		CE56047B1C6BC93C00B4E00B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSLambdaUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17464,6 +17637,7 @@
 		CE56047C1C6BC93C00B4E00B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSLambdaUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17479,6 +17653,7 @@
 		CE56048A1C6BC94D00B4E00B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSMachineLearningUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17494,6 +17669,7 @@
 		CE56048B1C6BC94D00B4E00B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSMachineLearningUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17510,6 +17686,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSS3UnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -17530,6 +17707,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSS3UnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -17548,6 +17726,7 @@
 		CE5604B71C6BC98800B4E00B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSSESUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17563,6 +17742,7 @@
 		CE5604B81C6BC98800B4E00B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSSESUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17578,6 +17758,7 @@
 		CE5604C61C6BC99500B4E00B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSSimpleDBUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17593,6 +17774,7 @@
 		CE5604C71C6BC99500B4E00B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSSimpleDBUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17608,6 +17790,7 @@
 		CE5604D51C6BC9A200B4E00B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSSNSUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17623,6 +17806,7 @@
 		CE5604D61C6BC9A200B4E00B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSSNSUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17638,6 +17822,7 @@
 		CE5604E41C6BC9B200B4E00B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSSQSUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17653,6 +17838,7 @@
 		CE5604E51C6BC9B200B4E00B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSSQSUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17704,6 +17890,7 @@
 		CE9DE5491C6A72960060793F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSAutoScalingTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17719,6 +17906,7 @@
 		CE9DE54A1C6A72960060793F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSAutoScalingTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17771,6 +17959,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSDynamoDBTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17790,6 +17979,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSDynamoDBTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17843,6 +18033,7 @@
 		CE9DE5C11C6A77890060793F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSEC2Tests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17858,6 +18049,7 @@
 		CE9DE5C21C6A77890060793F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSEC2Tests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17909,6 +18101,7 @@
 		CE9DE5F11C6A78200060793F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSElasticLoadBalancingTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17924,6 +18117,7 @@
 		CE9DE5F21C6A78200060793F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSElasticLoadBalancingTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17976,6 +18170,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSIoTTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -17996,6 +18191,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSIoTTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18050,6 +18246,7 @@
 		CE9DE69C1C6A79470060793F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSKinesisTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18065,6 +18262,7 @@
 		CE9DE69D1C6A79470060793F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSKinesisTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18116,6 +18314,7 @@
 		CE9DE6EE1C6A79DF0060793F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSLambdaTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18131,6 +18330,7 @@
 		CE9DE6EF1C6A79DF0060793F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSLambdaTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18222,7 +18422,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSS3Tests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18243,7 +18443,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSS3Tests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18298,6 +18498,7 @@
 		CE9DEA121C6A7E000060793F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSSESTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18313,6 +18514,7 @@
 		CE9DEA131C6A7E000060793F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSSESTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18364,6 +18566,7 @@
 		CE9DEA421C6A7E710060793F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSSimpleDBTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18379,6 +18582,7 @@
 		CE9DEA431C6A7E710060793F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSSimpleDBTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18430,6 +18634,7 @@
 		CE9DEA721C6A7EE40060793F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSSNSTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18445,6 +18650,7 @@
 		CE9DEA731C6A7EE40060793F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSSNSTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18496,6 +18702,7 @@
 		CE9DEAA21C6A7F460060793F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSSQSTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18511,6 +18718,7 @@
 		CE9DEAA31C6A7F460060793F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSSQSTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18563,6 +18771,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSAPIGatewayTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18583,6 +18792,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSAPIGatewayTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18637,6 +18847,7 @@
 		CE9DEB751C6A9F3D0060793F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSCloudWatchTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18652,6 +18863,7 @@
 		CE9DEB761C6A9F3D0060793F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSCloudWatchTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18715,6 +18927,7 @@
 		CEA316AD1C93A0EA002A9F58 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSCognitoIdentityProviderTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18730,6 +18943,7 @@
 		CEA316AE1C93A0EA002A9F58 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSCognitoIdentityProviderTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18746,6 +18960,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSCognitoIdentityProviderUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18765,6 +18980,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSCognitoIdentityProviderUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18842,6 +19058,7 @@
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES_NONAGGRESSIVE;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSKMSUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18859,6 +19076,7 @@
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES_NONAGGRESSIVE;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSKMSUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18876,6 +19094,7 @@
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES_NONAGGRESSIVE;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSKMSTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -18893,6 +19112,7 @@
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES_NONAGGRESSIVE;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSKMSTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -19004,6 +19224,7 @@
 		EFDE85F41ED2050C008841EC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSCognitoAuthTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -19018,6 +19239,7 @@
 		EFDE85F51ED2050C008841EC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSCognitoAuthTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -19032,6 +19254,7 @@
 		EFDE86081ED20517008841EC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSCognitoAuthUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -19047,6 +19270,7 @@
 		EFDE86091ED20517008841EC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				INFOPLIST_FILE = AWSCognitoAuthUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -19127,6 +19351,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSTranscribeStreamingUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19152,6 +19377,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSTranscribeStreamingUnitTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19245,7 +19471,7 @@
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSIoTFreeRTOSOTATests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -19272,7 +19498,7 @@
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSIoTFreeRTOSOTATests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -19296,7 +19522,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = W3DRXD72QU;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSCoreConfigurationTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
@@ -19319,7 +19545,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = W3DRXD72QU;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSCoreConfigurationTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
@@ -19341,7 +19567,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = W3DRXD72QU;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSCoreServiceConfigurationTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19364,7 +19590,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = W3DRXD72QU;
+				DEVELOPMENT_TEAM = FZXCUUS8M8;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = AWSCoreServiceConfigurationTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
